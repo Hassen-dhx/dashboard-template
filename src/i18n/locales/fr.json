@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Deedash",
+    "search": "Rechercher...",
+    "download": "Télécharger",
+    "createReport": "Créer un rapport",
+    "myAccount": "Mon compte",
+    "settings": "Paramètres",
+    "logOut": "Déconnexion"
+  },
+  "sidebar": {
+    "dashboard": "Tableau de bord",
+    "analytics": "Analytique",
+    "orders": "Commandes",
+    "products": "Produits",
+    "customers": "Clients",
+    "transactions": "Transactions",
+    "reports": "Rapports",
+    "settings": "Paramètres"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "description": "Aperçu de votre activité aujourd'hui",
+    "revenueOverview": "Aperçu des revenus",
+    "revenueDesc": "Revenus hebdomadaires de la période",
+    "recentOrders": "Commandes récentes",
+    "recentOrdersDesc": "Dernières transactions"
+  },
+  "stats": {
+    "totalRevenue": "Revenu total",
+    "subscriptions": "Abonnements",
+    "sales": "Ventes",
+    "activeNow": "Actifs maintenant",
+    "fromLastMonth": "par rapport au mois dernier"
+  },
+  "orders": {
+    "completed": "terminée",
+    "processing": "en cours",
+    "failed": "échouée"
+  },
+  "analytics": {
+    "title": "Analytique détaillée",
+    "description": "Consultez les rapports détaillés par métrique",
+    "overview": "Aperçu",
+    "revenue": "Revenus",
+    "users": "Utilisateurs",
+    "pageViews": "Pages vues",
+    "conversionRate": "Taux de conversion",
+    "avgSession": "Session moy.",
+    "revenueComingSoon": "Graphique des revenus à venir",
+    "usersComingSoon": "Graphique des utilisateurs à venir"
+  },
+  "theme": {
+    "light": "Mode clair",
+    "dark": "Mode sombre"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية"
+  }
+}

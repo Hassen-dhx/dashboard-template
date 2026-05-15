@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Deedash",
+    "search": "Search...",
+    "download": "Download",
+    "createReport": "Create Report",
+    "myAccount": "My Account",
+    "settings": "Settings",
+    "logOut": "Log out"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "orders": "Orders",
+    "products": "Products",
+    "customers": "Customers",
+    "transactions": "Transactions",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Your business overview for today",
+    "revenueOverview": "Revenue Overview",
+    "revenueDesc": "Weekly revenue for the current period",
+    "recentOrders": "Recent Orders",
+    "recentOrdersDesc": "Latest transactions"
+  },
+  "stats": {
+    "totalRevenue": "Total Revenue",
+    "subscriptions": "Subscriptions",
+    "sales": "Sales",
+    "activeNow": "Active Now",
+    "fromLastMonth": "from last month"
+  },
+  "orders": {
+    "completed": "completed",
+    "processing": "processing",
+    "failed": "failed"
+  },
+  "analytics": {
+    "title": "Detailed Analytics",
+    "description": "View detailed reports across different metrics",
+    "overview": "Overview",
+    "revenue": "Revenue",
+    "users": "Users",
+    "pageViews": "Page Views",
+    "conversionRate": "Conversion Rate",
+    "avgSession": "Avg. Session",
+    "revenueComingSoon": "Revenue chart coming soon",
+    "usersComingSoon": "Users chart coming soon"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Deedash",
+    "search": "بحث...",
+    "download": "تحميل",
+    "createReport": "إنشاء تقرير",
+    "myAccount": "حسابي",
+    "settings": "الإعدادات",
+    "logOut": "تسجيل الخروج"
+  },
+  "sidebar": {
+    "dashboard": "لوحة التحكم",
+    "analytics": "التحليلات",
+    "orders": "الطلبات",
+    "products": "المنتجات",
+    "customers": "العملاء",
+    "transactions": "المعاملات",
+    "reports": "التقارير",
+    "settings": "الإعدادات"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "description": "نظرة عامة على أعمالك اليوم",
+    "revenueOverview": "نظرة عامة على الإيرادات",
+    "revenueDesc": "الإيرادات الأسبوعية للفترة الحالية",
+    "recentOrders": "الطلبات الأخيرة",
+    "recentOrdersDesc": "آخر المعاملات"
+  },
+  "stats": {
+    "totalRevenue": "إجمالي الإيرادات",
+    "subscriptions": "الاشتراكات",
+    "sales": "المبيعات",
+    "activeNow": "النشطون الآن",
+    "fromLastMonth": "عن الشهر الماضي"
+  },
+  "orders": {
+    "completed": "مكتمل",
+    "processing": "قيد المعالجة",
+    "failed": "فشل"
+  },
+  "analytics": {
+    "title": "تحليلات مفصلة",
+    "description": "عرض تقارير مفصلة عبر مقاييس مختلفة",
+    "overview": "نظرة عامة",
+    "revenue": "الإيرادات",
+    "users": "المستخدمون",
+    "pageViews": "مشاهدات الصفحة",
+    "conversionRate": "معدل التحويل",
+    "avgSession": "متوسط الجلسة",
+    "revenueComingSoon": "رسم بياني للإيرادات قريباً",
+    "usersComingSoon": "رسم بياني للمستخدمين قريباً"
+  },
+  "theme": {
+    "light": "الوضع النهاري",
+    "dark": "الوضع الليلي"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية"
+  }
+}
